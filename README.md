@@ -3,6 +3,15 @@
 ## Description
 MedInventoryManager is a simple Medical Inventory Management System written in C. It provides a command-line interface to add, display, search, update, and delete medicine records stored in a binary file. This project demonstrates fundamental concepts of file handling, structures, and CRUD operations in C.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c72de0fe-c4fc-471d-8ad9-5bec15f4f76d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49b30891-7465-410d-8e89-57a6d0916a39" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4ba2850-6807-47b8-805d-e1e9ac14c6b8" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97f4b293-0752-45f6-a53f-293961de9662" />
+
+
 ## Features
 - Add new medicine records with name, quantity, and price.
 - Display all stored medicine records.
